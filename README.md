@@ -31,7 +31,7 @@ Redux
 React
 MongoDB
 ## Live Site
-
+https://refactoring-redux-platform.herokuapp.com/
 ![_️-Shop-Shop](https://user-images.githubusercontent.com/82126894/141067889-34f5d37f-600c-4450-a7e2-0d36a5221455.png)
 ## Contact Information 
 email me at : khanhtruong_1992@yahoo.com 
