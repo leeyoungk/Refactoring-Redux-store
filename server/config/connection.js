@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/refactoring', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/refactoring-redux-platform', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
